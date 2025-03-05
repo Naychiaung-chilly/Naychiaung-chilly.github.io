@@ -2,7 +2,7 @@
 <img src="http://Naychiaung-chilly.github.io/img/ppc.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Nay Chi Aung_
-> _BA in English Communication _<br />
+> _BA student in English Communication _<br />
 > Payap University, Department of English Communication<br />
 > San Klang, Sam Kamphang, Chiang Mai 50130, Thailand<br />
 
@@ -46,5 +46,5 @@
 
 # Contact Info
 * [Web Page](https://Naychiaung-chilly.github.io)
-* [LinkedIn](https://www.linkedin.com/in/nay-chi-aung)
 * [Whatsapp](https://wa.me/qr/7F74WWG24EJ3M1)
+* [LinkedIn](https://www.linkedin.com/in/nay-chi-aung)
