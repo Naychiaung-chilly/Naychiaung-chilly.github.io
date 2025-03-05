@@ -1,6 +1,6 @@
 # Naychiaung-chilly.github.io
 
-<img src="http://rbatzing.github.io/img/pic.png" alt="RPB Photo" align="right" width="30%"/>
+<img src="http://Naychiaung-chilly.github.io/img/pic.png" alt="RPB Photo" align="right" width="30%"/>
 
 # _Nay Chi Aung_
 > _BA in English Communation _<br />
