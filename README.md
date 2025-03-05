@@ -7,48 +7,39 @@
 > Payap University, Department of English Communation<br />
 > San Klang, Sam Kamphang, Chiang Mai 50130, Thailand<br />
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
-and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
+> I am a passionate educator with over 8 years of experience teaching English to students at various levels. I excel in lesson planning, content creation, and creative writing. I have also worked as an educational counselor, utilizing my skills in advising and communication.
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
+* BA English (Hons) - University of Yangon, Myanmar
+* BA English Communication - Payap University, Chiang Mai, Thailand
+* BA English literature - Lund University
 * MS Applied Mathematics and Computer Science - Indiana University - South Bend
 
 # Experience
-* Summer Intern - New York State Rabies Screening Laboratory
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
-
+* News Translator - ZALO News, Vietnam
+* Movie Translator - Shwe Pan Thee, Gold Channel, Anime World
+* Japanese Language Translator - Freelance
+* Content Writer -  Intel-Bridge education, Acumen International College,
+ City School Taunggyi
+* Education Consultant -  City School Taunggyi
+* Assistant English Teacher - City School Taunggyi
+* Freelance Content Writer - Pumpkin International School
+* English Language Teacher - Edulingo Teacher Training Center
+  
 # Interests
-* Applied machine learning, data science, modeling and forecasting to assist decision making
-* Natural language processing to automate prepublication editing support
-* Web and online community development and e-business
-* Blended and online education for higher education and livelong learning
-* Bible study and its life applications
+* Learning languages, creative writing, teaching
+* Conselling and communication
+* Enchancing new skills for teaching and personal growth
+* Translating, translanguaging
 
-# Project experience with Languages
-* Computer programming: Fortran 4, 6809 Assembler, C, MS BASIC, Forth, Z80 Assembler, Pascal, Lisp, C++, AWK, SNOBOL, APL, troff, SPITBOL, Perl, SmallTalk, Icon, Fortran 77, TeX, Metafont, XLISP, Visual Basic, SQL, Python, LaTeX, VBA, Ruby, Java, PHP, Ruby on Rails, R, JavaScript, Angular JS, Node JS, NoSQL, Bender, Julia
-* Human: English, Thai, French, German
-* OS Command shells: CP/M, UNIX, MSDOS, MS Windows, OsX, Linux, KSH, BASH, SSH, Ardunio, Android
-* Version control: RCS, CVS, Subversion, Bazaar, GIT
-* Open standards: HTML, CSS, XML, RSS, GPX, Unicode, ISO9001, ISO29110
+# Language Skills
+* Burmese - native
+* English - advanced
+* Japanese - upper-intermediate
+* Korean - intermediate
 
 # Contact Info
-* [Web Page](https://rbatzing.github.io)
-* [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
-* [Twitter](https://twitter.com/rbatz)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
-* [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
+* [Web Page](https://Naychiaung-chilly.github.io)
+* [LinkedIn]( www.linkedin.com/in/nay-chi-aung)
+* [Email](naychi7899aung@gmail.com)
+* [Whatsapp](+66 0831282113)
