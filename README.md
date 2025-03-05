@@ -5,7 +5,7 @@
 # _Nay Chi Aung_
 > _BA in English Communation _<br />
 > Payap University, Department of English Communation<br />
-> Amphur Muang, Chiang Mai 50000, Thailand<br />
+> San Klang, Sam Kamphang, Chiang Mai 50130, Thailand<br />
 
 > Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
 and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
