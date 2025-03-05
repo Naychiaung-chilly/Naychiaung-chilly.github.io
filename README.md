@@ -1,4 +1,3 @@
-# Naychiaung-chilly.github.io
 
 <img src="http://Naychiaung-chilly.github.io/img/ppc.jpg" alt="RPB Photo" align="right" width="30%"/>
 
