@@ -46,6 +46,6 @@
 
 # Contact Info
 * [Web Page](https://Naychiaung-chilly.github.io)
-* [LinkedIn](https://www.linkedin.com/in/nay-chi-aung?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqXDjwM%2FnQC%2BFWGTgjPnFxQ%3D%3D)
+* [LinkedIn](linkedin.com/in/nay-chi-aung)
 * [Email](naychi7899aung@gmail.com)
 * [Whatsapp](https://wa.me/qr/7F74WWG24EJ3M1)
